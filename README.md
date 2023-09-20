@@ -1,3 +1,3 @@
 # Pensamento computacional
-## iniciante, fazendo o curso do alura
-### Pagina com aves, canario do reino
+## Iniciante, fazendo o curso do alura
+### Pagina com aves, canário do reino
