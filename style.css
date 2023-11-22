@@ -6,8 +6,8 @@
        font-size: 30px;
        color: rgb(255, 115, 0);
 }
-{
-       backgroud-imagem:linear-Gradient(255,255,240);
+.conteudo{
+       background-image:linear-Gradient(to top,rgb(255,255,240),rgb(255, 0, 98));
        color:white; 
 }
        
