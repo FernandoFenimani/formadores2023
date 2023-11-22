@@ -6,11 +6,11 @@
        font-size: 30px;
        color: rgb(255, 115, 0);
 }
-.titulo{
+.texto{
        background-image:linear-Gradient(to top,rgb(255,255,240),rgb(247, 0, 255));
        color:white; 
 }
-.texto{
+.titulo{
        background-image:linear-Gradient(to top,rgb(255,255,240),rgb(255, 0, 157));
        color:white; 
 }  
