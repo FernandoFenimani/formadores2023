@@ -7,10 +7,10 @@
        color: rgb(255, 115, 0);
 }
 .texto{
-       background-image:linear-Gradient(to top,rgb(255,255,240),rgb(247, 0, 255));
+       background-image:linear-Gradient(to top,rgb(255,255,240),rgb(255, 0, 106));
        color:white; 
 }
 .titulo{
-       background-image:linear-Gradient(to top,rgb(255,255,240),rgb(255, 0, 157));
+       background-image:linear-Gradient(to top,rgb(255,255,240),rgb(0, 247, 255));
        color:white; 
 }  
