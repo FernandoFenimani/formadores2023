@@ -14,3 +14,10 @@
        background-color: linear-gradient(#EEE8AA, #D8BFD8);
        color: white;
 }
+header{
+       padding: 20px;
+       background-color: #3c0142;
+       border-bottom: 2px solid white;
+       font-size: 32px;
+       color: white;
+}
